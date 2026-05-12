@@ -2,6 +2,7 @@
   "name": "riselab",
   "private": true,
   "version": "0.0.0",
+  "homepage" : "https://mhtmoy.github.io/riseatSeven/",
   "type": "module",
   "scripts": {
     "dev": "vite",
